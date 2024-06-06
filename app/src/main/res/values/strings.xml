@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">somar</string>
+    <string name="texto1">Insira o primeiro número</string>
+    <string name="texto2">Insira o segundo número</string>
+    <string name="texto3">somar</string>
+    <string name="texto4">Verificar o maior número</string>
+    <string name="texto5"></string>
+</resources>
